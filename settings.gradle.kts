@@ -24,3 +24,5 @@ include(":formregister")
 
 include(":calculator_v2")
 project(":calculator_v2").projectDir = File(rootDir, "calculator/")
+include(":currencyexchange")
+include(":inputnumber")

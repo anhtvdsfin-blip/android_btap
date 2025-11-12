@@ -10,8 +10,10 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
-            <option value="$PROJECT_DIR$/caculator" />
+            <option value="$PROJECT_DIR$/calculator" />
+            <option value="$PROJECT_DIR$/currencyexchange" />
             <option value="$PROJECT_DIR$/formregister" />
+            <option value="$PROJECT_DIR$/inputnumber" />
           </set>
         </option>
       </GradleProjectSettings>
